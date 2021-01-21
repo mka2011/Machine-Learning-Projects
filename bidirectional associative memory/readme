@@ -1,0 +1,15 @@
+We are given set A and B as follows,
+Set A:
+• X1 = [1 1 1 1 1 1]
+• X2 = [-1 -1 -1 -1 -1 -1]
+• X3 = [1 -1 -1 1 1 1]
+• X4 = [1 1 -1 -1 -1 -1]
+Set B:
+• Y1 = [1 1 1]
+• Y2 = [-1 -1 -1]
+• Y3 = [-1 1 1]
+• Y4 = [1 -1 1]
+We are to use BAM algorithm, to train a Weight matrix for BAM which can retrieve all the above mentioned 4 pairs.
+Further, test the level of weight corrections of the BAM with examples.
+
+Further explanation is provided in report

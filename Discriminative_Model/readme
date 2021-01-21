@@ -1,0 +1,3 @@
+Using the dataset provided, we have created three extra features and from there we have to develop a GDA model. 
+
+Furthermore, convert the basic features to gaussian distribution using Box Muller transformation and create a GDA model and compare them.

@@ -1,0 +1,4 @@
+We were supposed to form a Kohonen network with 100 neurons arranged in the form of a two- dimensional lattice with 10 rows and 10 columns and use 1500 randomly generated neutrons to train our model.
+Lastly we use the following test set to test our created Kohonen Network. X1=[0.1 0.8]T, X2=[0.5 -0.2]T, X3=[-0.8 -0.9]T, X4=[-0.0.6 0.9]T.
+
+Further, you can refer the report.
